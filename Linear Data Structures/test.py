@@ -1,0 +1,42 @@
+"""test file for linear_data_structure.py"""
+
+import linear_data_structure as lin
+
+# a = lin.Stack()
+# print(a.is_empty())
+# a.push(1)
+# a.push(2)
+# a.push(3)
+# a.check_stack()
+# print(a.is_empty())
+# (a.pop())
+# print(a.peek())
+# a.check_stack()
+# print(a.size())
+
+# b = lin.Queue()
+# b.push(1)
+# b.push(2)
+# b.push(3)
+# b.pop()
+# b.push(4)
+# print(b.peek())
+# b.check_queue()
+# print(b.size())
+
+# lst = lin.LinkedList(["Tue", "Wen", "1"])
+# lst.add_tail("Fri")
+# lst.add_head("Mon")
+# lst.remove_node("1")
+# lst.add_after("Fri", "Sat")
+# lst.add_before("Fri", "Thu")
+# lst.add_tail("Sun")
+# lst.reverse()
+# lst.reverse()
+
+# lst.print_head_tail()
+# lst.print_list()
+# print(lst.index_of("Mon"))
+# print(lst.contains("Sun"))
+# print(lst.count())
+# print(lst[0])
